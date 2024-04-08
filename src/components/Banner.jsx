@@ -13,6 +13,7 @@ const Banner = () => {
                     See the world
                 </span>
             </div>
+            <p>sssssssssss</p>
         </div>
     );
 }

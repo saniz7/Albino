@@ -9,14 +9,7 @@
     "lint": "next lint",
     "test": "jest"
   },
-  "husky": {
-    "hooks": {
-      "applypatch-msg": "echo \"[Husky] applypatch-msg\"",
-      "pre-applypatch": "echo \"[Husky] pre-applypatch\"",
-      "post-applypatch": "echo \"[Husky] post-applypatch\"",
-      "pre-commit": "echo \"[Husky] pre-commit\"",
-    }
-  },
+
   "dependencies": {
     "autoprefixer": "10.4.16",
     "eslint": "8.51.0",
